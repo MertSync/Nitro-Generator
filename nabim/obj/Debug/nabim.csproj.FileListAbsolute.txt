@@ -1,0 +1,7 @@
+C:\Users\mertk\source\repos\nabim\nabim\bin\Debug\nabim.exe.config
+C:\Users\mertk\source\repos\nabim\nabim\bin\Debug\nabim.exe
+C:\Users\mertk\source\repos\nabim\nabim\bin\Debug\nabim.pdb
+C:\Users\mertk\source\repos\nabim\nabim\obj\Debug\nabim.csprojAssemblyReference.cache
+C:\Users\mertk\source\repos\nabim\nabim\obj\Debug\nabim.csproj.CoreCompileInputs.cache
+C:\Users\mertk\source\repos\nabim\nabim\obj\Debug\nabim.exe
+C:\Users\mertk\source\repos\nabim\nabim\obj\Debug\nabim.pdb
